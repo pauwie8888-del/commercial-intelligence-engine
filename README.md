@@ -37,10 +37,6 @@ A bounded account-research flow has live integration evidence. The newer adaptiv
 
 On 30 October 2026, a live five-target run completed research and output delivery using the external providers. On 4 November, a cached-evidence comparison made 14 real inference calls across two runs and delivered both reports to Sheets. The newer adaptive extension passed 72 account tests and 693 regression tests, plus an actual local n8n execution using simulated providers. Those simulated readbacks do not prove live delivery of the extension.
 
-## Limitations and next steps
-
-The small live comparison found more specific assessments for two accounts, mixed results elsewhere and no verified buying signals. Source recall, business-unit scope and final question quality still need improvement. A five-account controlled benchmark against independent manual research remains pending. The system does not send outreach.
-
 ## Explore
 
 - [Design thinking and methodology](METHODOLOGY.md)
