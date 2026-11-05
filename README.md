@@ -43,6 +43,7 @@ The small live comparison found more specific assessments for two accounts, mixe
 
 ## Explore
 
+- [Design thinking and methodology](METHODOLOGY.md)
 - [High-level architecture](architecture.md)
 - [90-second demo script](demo-script.md)
 
